@@ -1,5 +1,5 @@
-5382e10f27be677adc83edafb35121a5 *ChangeLog
-0c2f2279309cc8276554213f5ab718a2 *DESCRIPTION
+747d0787fe60eb1afa177bcabea310ab *ChangeLog
+01f982d57e12f8a9190cb6a03b4f4c93 *DESCRIPTION
 7fe78e015107e4dd3dc5ce4eaf2b172a *NAMESPACE
 6abc099cef7027756d62a4f2a9f365c7 *R/Evaluator.R
 834019460cebe99ba65db2831f55e1cc *R/GenAlgControl.R
@@ -36,7 +36,7 @@ ba3422632ae6abbcacbf5820e735248c *man/evaluate-methods.Rd
 ef3946c3314a4c2a4f28e02181537226 *man/toCControlList-methods.Rd
 fb275dcfc9421f3a98389c48f9af655d *man/trueFitnessVal-methods.Rd
 bccdaf73cfe8bbaad8054db55670fbea *man/validData-methods.Rd
-819e9b079e03f188ab588cab1baf0e6b *src/BICEvaluator.cpp
+b32ebff07f6b03a4264f078bac637367 *src/BICEvaluator.cpp
 3a07d52bc6e8bbb6db15a28f7042baf6 *src/BICEvaluator.h
 c2f7efddcf4deafb07630903fd1881ec *src/Chromosome.cpp
 be62157cfb66c1d3be04bdac9b0c9163 *src/Chromosome.h
@@ -44,7 +44,7 @@ be62157cfb66c1d3be04bdac9b0c9163 *src/Chromosome.h
 9910b40e64ae8ab03b35fc709751060a *src/Evaluator.h
 da1ae0289c26cff0daf31d4e9045279e *src/GenAlg.cpp
 201ac405520116e785401a2134ab9bfd *src/GenAlg.h
-58654f0956330933a819c78fec44bc8d *src/LMEvaluator.cpp
+73bafbe8f175a7c58374fe011600e815 *src/LMEvaluator.cpp
 4dd91b901ee49323972106e233f194d0 *src/LMEvaluator.h
 16eaec15bd0e63509ba6d09f926a856f *src/Logger.cpp
 d686b40f4cc8159a286d084ad13c75a2 *src/Logger.h
@@ -55,7 +55,7 @@ d686b40f4cc8159a286d084ad13c75a2 *src/Logger.h
 9a02a1a2d22b5fbef33286d5c9f46e0e *src/OnlineStddev.h
 2c7a79a1afd87e638828b00194de9c76 *src/PLS.cpp
 11ff937fabf5cb8d4390905460489d94 *src/PLS.h
-dda8375c983117ff429b59dcc3fe2006 *src/PLSEvaluator.cpp
+52f63cdf99424c797f822bc87f5482dd *src/PLSEvaluator.cpp
 ee77bddb60c6e7600844608e498aa917 *src/PLSEvaluator.h
 31269704e84dbc3bf0d51506aaba5cc9 *src/PLSSimpls.cpp
 d7caa2c432b1fe2df64bd1827af514b9 *src/PLSSimpls.h
