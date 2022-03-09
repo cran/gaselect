@@ -1,5 +1,5 @@
 747d0787fe60eb1afa177bcabea310ab *ChangeLog
-bfd1183dfa07641bf33b6b7af7346289 *DESCRIPTION
+d7956ae7747825a0af3db608d792e37a *DESCRIPTION
 cac4dc5cdfdac416e428a15688af7808 *NAMESPACE
 6abc099cef7027756d62a4f2a9f365c7 *R/Evaluator.R
 834019460cebe99ba65db2831f55e1cc *R/GenAlgControl.R
@@ -52,7 +52,7 @@ a01c34b1a034b4988fae850546a658eb *src/GenAlg.cpp
 d686b40f4cc8159a286d084ad13c75a2 *src/Logger.h
 5dac68075310ce049fe47e5c514dae5e *src/Makevars.in
 3c5f4da3d7b3a2d2b12fc9c9bc1ecb37 *src/Makevars.win
-640b54968a4283077c5966dd8ae68132 *src/MultiThreadedPopulation.cpp
+f928cd221efc0d32f0cbae24e9151ab0 *src/MultiThreadedPopulation.cpp
 0b0fe13e81940ba6e9c28a133a731b27 *src/MultiThreadedPopulation.h
 9a02a1a2d22b5fbef33286d5c9f46e0e *src/OnlineStddev.h
 06c7b3983a4d7690788d8821fcb09b53 *src/PLS.cpp
@@ -73,4 +73,4 @@ d9120b8536d05f0b2c5f1f912e94ff28 *src/SingleThreadPopulation.h
 ac4295dc6e572611982ff88a5c0c0c65 *src/UserFunEvaluator.h
 92209540ed88961a724ad9d810943e50 *src/autoconfig.h.in
 c8ee66e136efc4a9ce066873e0590d13 *src/autoconfig.win.h
-092716e4e1f92df0ce09dad35e8f7cae *src/config.h
+c2d0b05764beeca7600b8eb401c70c71 *src/config.h
