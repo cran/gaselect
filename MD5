@@ -1,5 +1,5 @@
 747d0787fe60eb1afa177bcabea310ab *ChangeLog
-d7956ae7747825a0af3db608d792e37a *DESCRIPTION
+c6cd47ebe61757e5af8072ddd088ced3 *DESCRIPTION
 cac4dc5cdfdac416e428a15688af7808 *NAMESPACE
 6abc099cef7027756d62a4f2a9f365c7 *R/Evaluator.R
 834019460cebe99ba65db2831f55e1cc *R/GenAlgControl.R
@@ -13,8 +13,8 @@ e1ab2fa19865672cdec92bdd80c97f66 *R/subsets.R
 b86c7024f8a5b0c952fe09cf59f2ba06 *R/validData.R
 b6cae4814dad35f7650e1f5cc9f40219 *README.md
 451532a5d0d27180ea3c3b7d39355617 *cleanup
-cf5f33257f6b57eac8d9293cc87464b1 *configure
-d8589e8721b8bd8a89951bb17cbc6c74 *configure.ac
+3af785d967f438eaec42babc29d4d962 *configure
+9f00d54ef84b16a4f12d6f96fa112149 *configure.ac
 e5ce541c21cd81c6e9f39a854c63cbee *configure.win
 88b004b0c55bfacf7ff2b7f8323caa23 *man/GenAlg-class.Rd
 67bf1b9f99798b36e1bd046f660bf4cf *man/GenAlg-constructor.Rd
@@ -53,7 +53,7 @@ d686b40f4cc8159a286d084ad13c75a2 *src/Logger.h
 5dac68075310ce049fe47e5c514dae5e *src/Makevars.in
 3c5f4da3d7b3a2d2b12fc9c9bc1ecb37 *src/Makevars.win
 f928cd221efc0d32f0cbae24e9151ab0 *src/MultiThreadedPopulation.cpp
-0b0fe13e81940ba6e9c28a133a731b27 *src/MultiThreadedPopulation.h
+8b149ec06d9e17e8d8a959abb17c9396 *src/MultiThreadedPopulation.h
 9a02a1a2d22b5fbef33286d5c9f46e0e *src/OnlineStddev.h
 06c7b3983a4d7690788d8821fcb09b53 *src/PLS.cpp
 59d18d6c5410bbea1a723728772b264c *src/PLS.h
@@ -61,7 +61,7 @@ f928cd221efc0d32f0cbae24e9151ab0 *src/MultiThreadedPopulation.cpp
 0e974ca9da4c710b9852ae116250a5b5 *src/PLSEvaluator.h
 1d22815bb47310bbf503e1c84f1f1e24 *src/PLSSimpls.cpp
 6fa04516ff275ee5530fcce4bd89f5c1 *src/PLSSimpls.h
-b245f8621afcc8a979446a4f374b7e37 *src/Population.h
+cce9ad1fec88460ae6de5a51b3a83c1d *src/Population.h
 e8505516b0e9afbfa8efbdb56140309a *src/RNG.cpp
 1fed2e93745c2621fd96863db4a6c600 *src/RNG.h
 16c578dec185cea6be7dcd06d0c379a0 *src/ShuffledSet.cpp
@@ -72,5 +72,5 @@ d9120b8536d05f0b2c5f1f912e94ff28 *src/SingleThreadPopulation.h
 4f46f41d02eec9ccdbdf0511963e4a49 *src/UserFunEvaluator.cpp
 ac4295dc6e572611982ff88a5c0c0c65 *src/UserFunEvaluator.h
 92209540ed88961a724ad9d810943e50 *src/autoconfig.h.in
-c8ee66e136efc4a9ce066873e0590d13 *src/autoconfig.win.h
+914d0d810cc55bacedc34eae2342ba1e *src/autoconfig.win.h
 c2d0b05764beeca7600b8eb401c70c71 *src/config.h
