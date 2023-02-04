@@ -1,5 +1,5 @@
 747d0787fe60eb1afa177bcabea310ab *ChangeLog
-c6cd47ebe61757e5af8072ddd088ced3 *DESCRIPTION
+02a0b9fb16ef9e438d6fbcbdd4185629 *DESCRIPTION
 cac4dc5cdfdac416e428a15688af7808 *NAMESPACE
 6abc099cef7027756d62a4f2a9f365c7 *R/Evaluator.R
 834019460cebe99ba65db2831f55e1cc *R/GenAlgControl.R
@@ -13,8 +13,8 @@ e1ab2fa19865672cdec92bdd80c97f66 *R/subsets.R
 b86c7024f8a5b0c952fe09cf59f2ba06 *R/validData.R
 b6cae4814dad35f7650e1f5cc9f40219 *README.md
 451532a5d0d27180ea3c3b7d39355617 *cleanup
-3af785d967f438eaec42babc29d4d962 *configure
-9f00d54ef84b16a4f12d6f96fa112149 *configure.ac
+888e0e392dab20c3b563121e0fa52ad5 *configure
+feb63bcaef3ef6d48b62e3f1ff91a300 *configure.ac
 e5ce541c21cd81c6e9f39a854c63cbee *configure.win
 88b004b0c55bfacf7ff2b7f8323caa23 *man/GenAlg-class.Rd
 67bf1b9f99798b36e1bd046f660bf4cf *man/GenAlg-constructor.Rd
@@ -50,8 +50,8 @@ a01c34b1a034b4988fae850546a658eb *src/GenAlg.cpp
 4dd91b901ee49323972106e233f194d0 *src/LMEvaluator.h
 16eaec15bd0e63509ba6d09f926a856f *src/Logger.cpp
 d686b40f4cc8159a286d084ad13c75a2 *src/Logger.h
-5dac68075310ce049fe47e5c514dae5e *src/Makevars.in
-3c5f4da3d7b3a2d2b12fc9c9bc1ecb37 *src/Makevars.win
+7054b2209a85fc010ab33b2f1cefc00f *src/Makevars.in
+6f412e6a2dbae5d23cc23a643d08f4a7 *src/Makevars.win
 f928cd221efc0d32f0cbae24e9151ab0 *src/MultiThreadedPopulation.cpp
 8b149ec06d9e17e8d8a959abb17c9396 *src/MultiThreadedPopulation.h
 9a02a1a2d22b5fbef33286d5c9f46e0e *src/OnlineStddev.h
@@ -65,12 +65,12 @@ cce9ad1fec88460ae6de5a51b3a83c1d *src/Population.h
 e8505516b0e9afbfa8efbdb56140309a *src/RNG.cpp
 1fed2e93745c2621fd96863db4a6c600 *src/RNG.h
 16c578dec185cea6be7dcd06d0c379a0 *src/ShuffledSet.cpp
-1eface69c7d3914450b8afc2839dde95 *src/ShuffledSet.h
+6af3d811c1e684ed2dd68aa44b09a075 *src/ShuffledSet.h
 25713bd7ac3c68830a5643788f08740f *src/SingleThreadPopulation.cpp
 d9120b8536d05f0b2c5f1f912e94ff28 *src/SingleThreadPopulation.h
 5daa49333746155961b1a386a9f63c5d *src/TruncatedGeomGenerator.h
 4f46f41d02eec9ccdbdf0511963e4a49 *src/UserFunEvaluator.cpp
 ac4295dc6e572611982ff88a5c0c0c65 *src/UserFunEvaluator.h
 92209540ed88961a724ad9d810943e50 *src/autoconfig.h.in
-914d0d810cc55bacedc34eae2342ba1e *src/autoconfig.win.h
-c2d0b05764beeca7600b8eb401c70c71 *src/config.h
+609803c507403aef317971f3ba70c57e *src/autoconfig.win.h
+58153546adea3810e18d128b9751a18d *src/config.h
