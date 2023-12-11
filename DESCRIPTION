@@ -2,8 +2,8 @@ Package: gaselect
 Type: Package
 Title: Genetic Algorithm (GA) for Variable Selection from
         High-Dimensional Data
-Version: 1.0.21
-Date: 2023-02-04
+Version: 1.0.22
+Date: 2023-12-11
 Author: David Kepplinger
 Maintainer: David Kepplinger <david.kepplinger@gmail.com>
 Description: Provides a genetic algorithm for finding variable
@@ -27,6 +27,6 @@ Collate: 'Evaluator.R' 'GenAlgControl.R' 'formatSegmentation.R'
         'toCControlList.R' 'validData.R'
 Suggests: chemometrics
 RoxygenNote: 7.2.3
-Packaged: 2023-02-04 19:18:12 UTC; david
+Packaged: 2023-12-11 19:00:18 UTC; david
 Repository: CRAN
-Date/Publication: 2023-02-04 19:42:31 UTC
+Date/Publication: 2023-12-11 19:50:03 UTC
