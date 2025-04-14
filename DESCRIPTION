@@ -2,10 +2,12 @@ Package: gaselect
 Type: Package
 Title: Genetic Algorithm (GA) for Variable Selection from
         High-Dimensional Data
-Version: 1.0.22
-Date: 2023-12-11
-Author: David Kepplinger
-Maintainer: David Kepplinger <david.kepplinger@gmail.com>
+Version: 1.0.23
+Date: 2025-04-14
+Authors@R: person(given = "David",
+                  family = "Kepplinger",
+                  role = c("aut", "cre"),
+                  email = "david.kepplinger@gmail.com")
 Description: Provides a genetic algorithm for finding variable
     subsets in high dimensional data with high prediction performance. The
     genetic algorithm can use ordinary least squares (OLS) regression models or
@@ -26,7 +28,9 @@ Collate: 'Evaluator.R' 'GenAlgControl.R' 'formatSegmentation.R'
         'evaluate.R' 'fitness.R' 'genAlg.R' 'getEvalFun.R' 'subsets.R'
         'toCControlList.R' 'validData.R'
 Suggests: chemometrics
-RoxygenNote: 7.2.3
-Packaged: 2023-12-11 19:00:18 UTC; david
+RoxygenNote: 7.3.2
+Packaged: 2025-04-14 16:05:36 UTC; david
+Author: David Kepplinger [aut, cre]
+Maintainer: David Kepplinger <david.kepplinger@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-12-11 19:50:03 UTC
+Date/Publication: 2025-04-14 16:20:06 UTC
