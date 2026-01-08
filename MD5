@@ -1,5 +1,5 @@
 747d0787fe60eb1afa177bcabea310ab *ChangeLog
-1ac8e2729d229e839b24558a084807f7 *DESCRIPTION
+787e35baa23249cdc8569337eb8965ac *DESCRIPTION
 cac4dc5cdfdac416e428a15688af7808 *NAMESPACE
 6abc099cef7027756d62a4f2a9f365c7 *R/Evaluator.R
 834019460cebe99ba65db2831f55e1cc *R/GenAlgControl.R
@@ -13,8 +13,8 @@ e1ab2fa19865672cdec92bdd80c97f66 *R/subsets.R
 b86c7024f8a5b0c952fe09cf59f2ba06 *R/validData.R
 b6cae4814dad35f7650e1f5cc9f40219 *README.md
 451532a5d0d27180ea3c3b7d39355617 *cleanup
-29cf4eb27263b924959b3255e01339f8 *configure
-e3ed5d848e4c1fca37c25ad74c4c39b1 *configure.ac
+aeecd43d3e951d0c06d2ef74bcbaf847 *configure
+2b67f6f2a3de81fcfe3665ad11731603 *configure.ac
 e5ce541c21cd81c6e9f39a854c63cbee *configure.win
 88b004b0c55bfacf7ff2b7f8323caa23 *man/GenAlg-class.Rd
 67bf1b9f99798b36e1bd046f660bf4cf *man/GenAlg-constructor.Rd
@@ -50,8 +50,8 @@ a01c34b1a034b4988fae850546a658eb *src/GenAlg.cpp
 4dd91b901ee49323972106e233f194d0 *src/LMEvaluator.h
 05c25f589a3ee288c26aa5acf190a4c0 *src/Logger.cpp
 d686b40f4cc8159a286d084ad13c75a2 *src/Logger.h
-7054b2209a85fc010ab33b2f1cefc00f *src/Makevars.in
-6f412e6a2dbae5d23cc23a643d08f4a7 *src/Makevars.win
+20f3dacf231470d1829161e733655700 *src/Makevars.in
+ec0cd4f618e967575a406a3cc5df23c7 *src/Makevars.win
 f928cd221efc0d32f0cbae24e9151ab0 *src/MultiThreadedPopulation.cpp
 8b149ec06d9e17e8d8a959abb17c9396 *src/MultiThreadedPopulation.h
 9a02a1a2d22b5fbef33286d5c9f46e0e *src/OnlineStddev.h
